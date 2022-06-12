@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Tasty Schnitzel",
+      "content": "A super-tasty Schnitzel - just awesome!"
+    },
+    {
+      "id": 2,
+      "title": "Big Fat Burger",
+      "content": "What else you need to say?"
+    },
+  ]
+}
